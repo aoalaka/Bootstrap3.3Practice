@@ -1,1 +1,2 @@
-# Bootstrap3.3Practice
+# creating my first landing page
+## designed using bootstrap
